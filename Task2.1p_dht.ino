@@ -15,7 +15,7 @@ WiFiClient client;
 
 // ThingSpeak configuration
 unsigned long ChannelID = 2624599; // ThingSpeak channel ID
-const char * WriteAPIKey = "B0F1SF6Q8TstatuscodeFKKstatuscode9";  // ThingSpeak Write API Key
+const char * WriteAPIKey = "B0F1SF6Q8TXFKKX9";  // ThingSpeak Write API Key
 
 void setup() {
   Serial.begin(9600);
